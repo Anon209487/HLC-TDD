@@ -4,7 +4,7 @@
 package act1;
 
 /**
- * aaa
+ * 
  */
 public class Act1 {
 	
