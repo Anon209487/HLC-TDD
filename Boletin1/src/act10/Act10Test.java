@@ -18,7 +18,7 @@ class Act10Test {
 	}
 
 	private static Stream<Arguments> testPalindromo() {
-		return Stream.of(Arguments.of("Otto", true), Arguments.of("APPA", true), Arguments.of("HOLA", false),Arguments.of("", true),Arguments.of("Ot o", false),Arguments.of("aaaa", true),Arguments.of("a a a", true));
+		return Stream.of(Arguments.of("Otto", true),Arguments.of("orro", true), Arguments.of("APPA", true), Arguments.of("HOLA", false),Arguments.of("", true),Arguments.of("Ot o", false),Arguments.of("aaaa", true),Arguments.of("a a a", true));
 	}
 
 }

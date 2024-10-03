@@ -10,7 +10,7 @@ public class Act1 {
 	
 	/**
 	 * Comprueba si el char es una vocal o no 
-	 * @param caracter
+	 * @param caracter  
 	 * @return
 	 */
 	public static boolean esVocal(char caracter) {
